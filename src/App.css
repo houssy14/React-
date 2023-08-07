@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {margin: 20px;
+  font-family: "Roboto", sans-serif;
+  background-color: rgb(238, 238, 238);
+  color: rgb(13, 13, 158);
+  padding: 10px 20px;
+}
+.btn {
+  background-color: #4CAF50; /* Green background color */
+  color: white; /* White text color */
+  padding: 10px 20px; /* Padding on the top and bottom: 10 pixels, padding on the left and right: 20 pixels */
+  border: none; /* Remove the default button border */
+  border-radius: 5px; /* Add rounded corners */
+  cursor: pointer; /* Change cursor to a hand when hovering over the button */
+}
